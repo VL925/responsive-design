@@ -1,0 +1,55 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+header {
+	color: white;
+}
+body {
+	font-family: Oswald;
+    font-size: 100%;
+    line-height: 125%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-height : 100%;
+    min-width : 100%;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-family: Georgia;
+	font-size: 300%;
+}
+
+#five{
+	background-color: rgba(153, 5, 5, 0.5);
+	background-image: url(photos/ironmanlogo.png);
+}
+
+#four{
+	background-color: rgba(255, 255, 255, 0.5);
+	background-image: url(photos/mklogo.png);
+	background-position: center;
+}
+
+#three{
+	background-color: rgba(204, 171, 8, 0.5);
+	background-image: url(photos/wlogo.png);
+}
+
+#two{
+	background-color: black;
+	background-image: url(photos/batmanlogo.png);
+	background-position: center;
+
+}
+
+#one{
+	background-color: rgba(161, 5, 5, 0.5);
+	background-image: url(photos/spiderlogo.png);
+	background-position: center;
+}
+
+
+ul{
+	font-size: 120%;
+}
+
+
